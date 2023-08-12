@@ -1,4 +1,4 @@
-module github.com/dailymotion/allure-go
+module github.com/Nikita-Filonov/allure-go
 
 go 1.12
 

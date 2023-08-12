@@ -2,7 +2,7 @@ package example
 
 import (
 	"errors"
-	"github.com/dailymotion/allure-go"
+	"github.com/Nikita-Filonov/allure-go"
 	"testing"
 )
 

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/dailymotion/allure-go"
-	"github.com/dailymotion/allure-go/severity"
+	"github.com/Nikita-Filonov/allure-go"
+	"github.com/Nikita-Filonov/allure-go/severity"
 )
 
 type SampleObject struct {
